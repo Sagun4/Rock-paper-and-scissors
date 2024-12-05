@@ -1,2 +1,3 @@
 # Rock-paper-and-scissors
-This is a simple js game.
+This is a simple js game. <br>
+Author - Sagun
